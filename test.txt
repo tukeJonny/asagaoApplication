@@ -1,0 +1,3 @@
+みなさんこんにちは。
+わたしがtukeJonnyです。
+現在RubyonRailsを学習しています。
